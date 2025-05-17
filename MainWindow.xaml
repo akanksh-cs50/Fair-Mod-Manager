@@ -13,7 +13,8 @@
         <MicaBackdrop />
     </Window.SystemBackdrop>
 
-    <Grid>
+    <Border  HorizontalAlignment="Stretch" VerticalAlignment="Top" Background="#262626">    
+        <TextBlock Text="Fairy Mod Manager" FontSize="24" Padding="10" Foreground="White"/>
+    </Border>
 
-    </Grid>
 </Window>
