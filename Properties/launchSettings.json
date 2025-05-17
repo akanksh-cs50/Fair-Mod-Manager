@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Fair Mod Manager (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Fair Mod Manager (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
